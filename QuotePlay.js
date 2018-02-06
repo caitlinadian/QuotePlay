@@ -1,5 +1,4 @@
 $(document).ready(function(){
-	console.log("ready, ");
-	console.log("ok!");
+	console.log("change");
 });
 
